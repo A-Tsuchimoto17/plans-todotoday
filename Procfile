@@ -1,1 +1,1 @@
-"start": "nodemon -r './.module' ./app.js"
+"start": "node -r './.module' ./app.js"
